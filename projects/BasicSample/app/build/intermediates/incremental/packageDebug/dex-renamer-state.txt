@@ -1,0 +1,4 @@
+#Wed May 13 11:05:55 BRT 2020
+base.0=/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

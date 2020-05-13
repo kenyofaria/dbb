@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/build/intermediates/res/merged/debug/layout/activity_show_text.xml",
+        "source": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/layout/activity_show_text.xml"
+    },
+    {
+        "merged": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/layout/activity_main.xml"
+    }
+]

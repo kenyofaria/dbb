@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 57,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 44,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 819,
+                        "endColumn": 44,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 58,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 58,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 51,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 51,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 55,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 55,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 87,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 87,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 58,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 58,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 57,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/git-hub/dbb/projects/BasicSample/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 57,
+                        "endOffset": 779
+                    }
+                }
+            }
+        ]
+    }
+]

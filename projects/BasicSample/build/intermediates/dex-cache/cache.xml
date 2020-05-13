@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-core-2.2.1-release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1293c772d74ea38397a85f20ba190823661dc4f5">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/BasicSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-core-2.2.1-release_507520f15e88878d6706cfe50e8cccbe8031725b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/BasicSample/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_3c79e2cdb83560a5e9f1ac3ee34abe084f534ed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/BasicSample/app/build/intermediates/pre-dexed/debug/guava-18.0_f04664735b922d014dad833121b1adb1ce77d910.jar" />
+    </item>
+
+</items>
