@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af48eef1-77d6-4f43-bafb-cee3a1794b15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/ChangeTextBehaviorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/ChangeTextBehaviorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomMatcherSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomMatcherSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomMatcherSample/app/src/androidTest/java/com/example/android/testing/espresso/CustomMatcherSample/HintMatchersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomMatcherSample/app/src/androidTest/java/com/example/android/testing/espresso/CustomMatcherSample/HintMatchersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomMatcherSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomMatcherSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomMatcherSample/app/src/main/java/com/example/android/testing/espresso/CustomMatcherSample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomMatcherSample/app/src/main/java/com/example/android/testing/espresso/CustomMatcherSample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomMatcherSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomMatcherSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataAdapterSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../DataAdapterSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataAdapterSample/app/src/androidTest/java/com/example/android/testing/espresso/DataAdapterSample/LongListActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataAdapterSample/app/src/androidTest/java/com/example/android/testing/espresso/DataAdapterSample/LongListActivityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataAdapterSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataAdapterSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataAdapterSample/app/src/main/java/com/example/android/testing/espresso/DataAdapterSample/LongListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataAdapterSample/app/src/main/java/com/example/android/testing/espresso/DataAdapterSample/LongListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataAdapterSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../DataAdapterSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdlingResourceSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IdlingResourceSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdlingResourceSample/app/src/androidTest/java/com/example/android/testing/espresso/IdlingResourceSample/ChangeTextBehaviorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IdlingResourceSample/app/src/androidTest/java/com/example/android/testing/espresso/IdlingResourceSample/ChangeTextBehaviorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdlingResourceSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IdlingResourceSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsAdvancedSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsAdvancedSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsAdvancedSample/app/src/androidTest/java/com/example/android/testing/espresso/intents/AdvancedSample/ImageViewerActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsAdvancedSample/app/src/androidTest/java/com/example/android/testing/espresso/intents/AdvancedSample/ImageViewerActivityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsAdvancedSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsAdvancedSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsAdvancedSample/app/src/main/java/com/example/android/testing/espresso/intents/AdvancedSample/ImageViewerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsAdvancedSample/app/src/main/java/com/example/android/testing/espresso/intents/AdvancedSample/ImageViewerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsAdvancedSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsAdvancedSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsBasicSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/app/src/androidTest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsBasicSample/app/src/androidTest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/DialerActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsBasicSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/ContactsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/DialerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntentsBasicSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IntentsBasicSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiProcessSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiProcessSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiProcessSample/app/src/androidTest/java/com/example/android/testing/espresso/multiprocesssample/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiProcessSample/app/src/androidTest/java/com/example/android/testing/espresso/multiprocesssample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiProcessSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiProcessSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiProcessSample/app/src/main/java/com/example/android/testing/espresso/multiprocesssample/DefaultProcessActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiProcessSample/app/src/main/java/com/example/android/testing/espresso/multiprocesssample/DefaultProcessActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiProcessSample/app/src/main/java/com/example/android/testing/espresso/multiprocesssample/PrivateProcessActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiProcessSample/app/src/main/java/com/example/android/testing/espresso/multiprocesssample/PrivateProcessActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiProcessSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiProcessSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiWindowSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiWindowSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerViewSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerViewSample/app/src/androidTest/java/com/example/android/testing/espresso/RecyclerViewSample/RecyclerViewSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewSample/app/src/androidTest/java/com/example/android/testing/espresso/RecyclerViewSample/RecyclerViewSampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerViewSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerViewSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebBasicSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../WebBasicSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebBasicSample/app/src/androidTest/java/com/example/android/testing/espresso/web/BasicSample/WebViewActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebBasicSample/app/src/androidTest/java/com/example/android/testing/espresso/web/BasicSample/WebViewActivityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebBasicSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebBasicSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebBasicSample/app/src/main/java/com/example/android/testing/espresso/web/BasicSample/WebViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebBasicSample/app/src/main/java/com/example/android/testing/espresso/web/BasicSample/WebViewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebBasicSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../WebBasicSample/build.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="201" />
+    <option name="y" value="23" />
+    <option name="width" value="1346" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BasicSampleBundled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicSampleBundled" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af48eef1-77d6-4f43-bafb-cee3a1794b15" name="Default Changelist" comment="" />
+      <created>1588887200239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588887200239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="201" y="23" width="1346" height="833" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32981133" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>

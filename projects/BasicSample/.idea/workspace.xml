@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -590,7 +590,7 @@
       <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -601,7 +601,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Gradle Console" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32962447" />
-      <window_info anchor="bottom" id="Build" order="13" weight="0.32961783" />
+      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.32961783" />
       <window_info anchor="bottom" id="Android Profiler" order="14" />
       <window_info anchor="bottom" id="Logcat" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -674,8 +674,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
