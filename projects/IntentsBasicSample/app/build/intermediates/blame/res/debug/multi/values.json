@@ -1,0 +1,161 @@
+[
+    {
+        "outputFile": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 57,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 57,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 57,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 58,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 58,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 59,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 59,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endLine": 9,
+                    "endColumn": 13,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endLine": 24,
+                        "endColumn": 13,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 70,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 70,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 108,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 108,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 57,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 57,
+                        "endOffset": 779
+                    }
+                }
+            }
+        ]
+    }
+]

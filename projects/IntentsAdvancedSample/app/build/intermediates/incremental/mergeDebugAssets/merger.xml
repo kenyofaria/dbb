@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/assets"/><source path="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsAdvancedSample/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsAdvancedSample/app/src/debug/assets"/></dataSet></merger>

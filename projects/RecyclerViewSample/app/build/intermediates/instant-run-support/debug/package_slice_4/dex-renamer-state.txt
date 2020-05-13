@@ -1,0 +1,4 @@
+#Mon Feb 04 10:01:24 BRST 2019
+base.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

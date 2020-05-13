@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="espresso-contrib-2.2.1-release-no-dep">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/out_dir/espresso-contrib-2.2.1-release-no-dep.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

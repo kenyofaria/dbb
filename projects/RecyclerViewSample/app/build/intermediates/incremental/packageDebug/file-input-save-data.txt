@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Feb 04 10:01:25 BRST 2019
+2.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_/res/layout/text_row_item.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7301ef7d3f0de8f35cea032b9ccf34d02e7a8cd
+6.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ab3b78a1b4e9f385b25049c633de1cddddf2e88/classes.dex
+5.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ab3b78a1b4e9f385b25049c633de1cddddf2e88
+3.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7301ef7d3f0de8f35cea032b9ccf34d02e7a8cd/classes.dex
+3.set=DEX
+1.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+0.set=DEX

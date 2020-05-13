@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-core-2.2.1-release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1293c772d74ea38397a85f20ba190823661dc4f5">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-core-2.2.1-release_507520f15e88878d6706cfe50e8cccbe8031725b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-intents-2.2.1-release-no-dep.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36fc586b1972224ec6766741b62a9d1f2c4e20d">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-intents-2.2.1-release-no-dep_e2a65a257dafc77afd51001b1fbc0873c9262c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/ee610bbed1f964d4feec374f5b3e4b28305dd031/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/debug/classes_9c36a19568b6e7eb7afc5425bbeb033c45e44f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/182cbeae9ed863719fe4111a12f61c5ea3785eca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/debug/classes_afcab7b33dd76e693f26425c9ecca24d4e4e886b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/0410105008ac369f1a5b9c90be9ba183269f7745/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/debug/classes_e3c1620a68602b2759a7f8412a5afdbdd54b3a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/752cdaf3cf7c7d6495b9a631ea232ac3e2ea0e51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/debug/classes_4c811cd1299b504516cd33ca54f6cc465dfe047b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/052c788062fbc7ffc4929092d429cdac71f1f09d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/debug/classes_1b1d40ece97562274657835fdaf75a60db7a349b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/78f23ed441e509e3ef90bdeac7dd6bde7cc86fff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/pre-dexed/debug/classes_056cf252e9f9398ee7c872c7b1278bbea7638684.jar" />
+    </item>
+
+</items>

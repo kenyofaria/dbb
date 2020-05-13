@@ -1,0 +1,13 @@
+#Mon Feb 04 10:01:24 BRST 2019
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.3=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ad3b6b34de9fe30449be060767385cd1cb04582
+base.2=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_3c79e2cdb83560a5e9f1ac3ee34abe084f534ed4
+base.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc413541d3b29ad72223e559448694f554c8bc57
+base.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a5352c381080431d33122d5af9792e382340ae6
+file.3=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ad3b6b34de9fe30449be060767385cd1cb04582/classes.dex
+file.2=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_3c79e2cdb83560a5e9f1ac3ee34abe084f534ed4/classes.dex
+file.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc413541d3b29ad72223e559448694f554c8bc57/classes.dex
+file.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a5352c381080431d33122d5af9792e382340ae6/classes.dex

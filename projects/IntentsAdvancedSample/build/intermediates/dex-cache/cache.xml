@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-core-2.2.1-release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1293c772d74ea38397a85f20ba190823661dc4f5">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsAdvancedSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-core-2.2.1-release_507520f15e88878d6706cfe50e8cccbe8031725b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-intents-2.2.1-release-no-dep.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36fc586b1972224ec6766741b62a9d1f2c4e20d">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsAdvancedSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-intents-2.2.1-release-no-dep_e2a65a257dafc77afd51001b1fbc0873c9262c02.jar" />
+    </item>
+
+</items>

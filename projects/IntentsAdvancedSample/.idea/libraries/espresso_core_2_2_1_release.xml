@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="espresso-core-2.2.1-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/out_dir/espresso-core-2.2.1-release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

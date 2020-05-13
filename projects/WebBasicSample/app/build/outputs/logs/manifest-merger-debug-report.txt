@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:19:5-67
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:22:22-78
+application
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:24:5-36:19
+	android:label
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.testing.espresso.web.BasicSample.WebViewActivity
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:29:13-96
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/src/main/AndroidManifest.xml

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_activity_click_header_height">24dp</dimen>
+    <dimen name="list_item_min_height">56dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="selection_row_value_margin">12dp</dimen>
+    <string name="app_name">Data Adapter Sample</string>
+    <string name="row_label">Clicked on row</string>
+    <style name="AppTheme" parent="android:Theme"/>
+</resources>

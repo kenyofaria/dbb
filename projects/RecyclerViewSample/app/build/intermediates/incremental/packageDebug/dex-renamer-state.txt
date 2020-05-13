@@ -1,0 +1,7 @@
+#Mon Feb 04 10:01:25 BRST 2019
+base.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7301ef7d3f0de8f35cea032b9ccf34d02e7a8cd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ab3b78a1b4e9f385b25049c633de1cddddf2e88/classes.dex
+base.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ab3b78a1b4e9f385b25049c633de1cddddf2e88
+file.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7301ef7d3f0de8f35cea032b9ccf34d02e7a8cd/classes.dex

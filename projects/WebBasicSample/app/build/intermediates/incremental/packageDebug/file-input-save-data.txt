@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu May 07 18:41:52 BRT 2020
+2.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/assets/debug/web_form_response.html
+2.set=ANDROID_RESOURCE
+4.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.set=ANDROID_RESOURCE
+6.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/assets/debug
+1.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/assets/debug/web_form.html
+1.set=ASSET
+2.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_web_view.xml
+6.set=ASSET
+0.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/assets/debug
+4.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/WebBasicSample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE

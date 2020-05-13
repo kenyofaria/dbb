@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/merged/debug/layout/text_row_item.xml",
+        "source": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/src/main/res/layout/text_row_item.xml"
+    }
+]

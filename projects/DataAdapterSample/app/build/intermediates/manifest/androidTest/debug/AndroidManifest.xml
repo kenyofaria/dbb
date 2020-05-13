@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.android.testing.espresso.DataAdapterSample.test"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="26" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.example.android.testing.espresso.DataAdapterSample"
+        android:targetPackage="com.example.android.testing.espresso.DataAdapterSample" />
+
+    <application
+        android:label="DataAdapterSampleTest"
+        tools:replace="label" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

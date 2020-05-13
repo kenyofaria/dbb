@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 55,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 64,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 64,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 51,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 51,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 48,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 48,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 57,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 57,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 56,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 56,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endColumn": 52,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 52,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 51,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/DataAdapterSample/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 51,
+                        "endOffset": 736
+                    }
+                }
+            }
+        ]
+    }
+]

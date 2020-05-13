@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endLine": 38,
+                        "endColumn": 19,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 55,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 55,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 57,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 57,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 824
+                    }
+                }
+            }
+        ]
+    }
+]

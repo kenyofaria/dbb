@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-contrib-2.2.1-release-no-dep.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cdd91f85e065b6e46bf1cfe51cc9659d6185180">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-contrib-2.2.1-release-no-dep_70c8365c76ee8a4138bd3c01e1039fa8190d280f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/.android/build-cache/08d9ca62b8186f240da516f205fbf86ee546a107/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/pre-dexed/debug/classes_6ad3b6b34de9fe30449be060767385cd1cb04582.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9ab3b78a1b4e9f385b25049c633de1cddddf2e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6279be9c1846c6cf35d0729a2d648bb326c8fabd">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7301ef7d3f0de8f35cea032b9ccf34d02e7a8cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-core-2.2.1-release-no-dep.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e912d7fa106f1ad0f2468b9c4a9e9614ef1a407a">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-core-2.2.1-release-no-dep_5cdcc407dec8778988909b39f1939fe8c2b6e50c.jar" />
+    </item>
+
+</items>

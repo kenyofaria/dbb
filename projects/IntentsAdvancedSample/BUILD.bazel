@@ -1,0 +1,47 @@
+load("@gmaven_rules//:defs.bzl", "gmaven_artifact")
+
+licenses(["notice"])  # Apache 2.0
+
+android_library(
+    name = "IntentsAdvancedSampleLib",
+    srcs = glob(["app/src/main/**/*.java"]),
+    custom_package = "com.example.android.testing.espresso.intents.AdvancedSample",
+    manifest = "app/src/main/AndroidManifest.xml",
+    resource_files = glob(["app/src/main/res/**/*"]),
+    deps = [
+        gmaven_artifact("com.android.support:support-annotations:27.0.2"),
+        "@com_google_guava_guava//jar",
+    ],
+)
+
+android_binary(
+    name = "IntentsAdvancedSample",
+    custom_package = "com.example.android.testing.espresso.intents.AdvancedSample",
+    manifest = "app/src/main/AppManifest.xml",
+    deps = [":IntentsAdvancedSampleLib"],
+)
+
+android_library(
+    name = "IntentsAdvancedSampleTestLib",
+    srcs = glob(["app/src/androidTest/**/*.java"]),
+    custom_package = "com.example.android.testing.espresso.intents.AdvancedSample",
+    deps = [
+        gmaven_artifact("com.android.support.test.espresso:espresso-intents:aar:3.0.1"),
+        ":IntentsAdvancedSampleLib",
+        "//:test_deps",
+    ],
+)
+
+android_binary(
+    name = "IntentsAdvancedSampleTest",
+    custom_package = "com.example.android.testing.espresso.intents.AdvancedSample",
+    instruments = ":IntentsAdvancedSample",
+    manifest = "app/src/androidTest/AndroidManifest.xml",
+    deps = [":IntentsAdvancedSampleTestLib"],
+)
+
+android_instrumentation_test(
+    name = "IntentsAdvancedSampleInstrumentationTest",
+    target_device = "@android_test_support//tools/android/emulated_devices/generic_phone:android_23_x86_qemu2",
+    test_app = ":IntentsAdvancedSampleTest",
+)

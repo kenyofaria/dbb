@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Apr 11 19:04:02 BRT 2018
+2.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+5.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main/META-INF/services/org.xmlpull.v1.XmlPullParserFactory
+5.set=JAVA_RESOURCE
+3.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/res/resources-debug-androidTest.ap_
+6.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/junit/runner/smalllogo.gif
+2.set=JAVA_RESOURCE
+4.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+7.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main/META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
+7.set=JAVA_RESOURCE
+count=8
+0.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/junit/runner/logo.gif
+5.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main
+4.set=JAVA_RESOURCE
+6.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+1.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+7.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main
+2.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/protobuf.meta
+6.set=JAVA_RESOURCE
+0.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+3.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+4.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/LICENSE-junit.txt
+0.set=JAVA_RESOURCE

@@ -1,0 +1,4 @@
+#Wed Apr 11 19:04:02 BRT 2018
+base.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/MultiWindowSample/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion rootProject.buildToolsVersion
+    defaultConfig {
+        applicationId "com.example.android.testing.espresso.intents.AdvancedSample"
+        minSdkVersion 9
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    lintOptions {
+        abortOnError false
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    // App dependencies
+    compile 'com.android.support:support-annotations:' + rootProject.supportLibVersion;
+    // Testing-only dependencies
+    // Force usage of support annotations in the test app, since it is internally used by the runner module.
+    /*androidTestCompile 'com.android.support:support-annotations:' + rootProject.supportLibVersion;
+    androidTestCompile 'com.android.support.test:runner:' + rootProject.runnerVersion;
+    androidTestCompile 'com.android.support.test:rules:' + rootProject.rulesVersion;
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:' + rootProject.espressoVersion;
+    androidTestCompile 'com.android.support.test.espresso:espresso-intents:' + rootProject.espressoVersion;*/
+
+    androidTestCompile files('/Users/kenyo/out_dir/espresso-core-2.2.1-release.jar');
+    androidTestCompile files('/Users/kenyo/out_dir/espresso-intents-2.2.1-release-no-dep.jar');
+    //androidTestCompile files('/Users/kenyo/out_dir/espresso-idling-resource-2.2.1-release-no-dep.jar');
+    //androidTestCompile files('/Users/kenyo/out_dir/espresso-contrib-2.2.1-release-no-dep.jar');
+
+    //testCompile group: 'org.hamcrest', name: 'hamcrest-all', version: '1.3'
+
+    //androidTestCompile 'com.android.support.test:rules:' + rootProject.rulesVersion;
+}

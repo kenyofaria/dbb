@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/kenyo/.android/build-cache/baaaef08d13d414bb0c13b1e69e9b77283b4f13d/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/RecyclerViewSample/app/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/kenyo/.android/build-cache/baaaef08d13d414bb0c13b1e69e9b77283b4f13d/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <string name="app_name">Intents Advanced Sample</string>
+    <string name="button_open_camera">Take photo</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/res/merged/debug/layout/activity_contacts.xml",
+        "source": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/build/intermediates/res/merged/debug/layout/activity_dialer.xml",
+        "source": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IntentsBasicSample/app/src/main/res/layout/activity_dialer.xml"
+    }
+]

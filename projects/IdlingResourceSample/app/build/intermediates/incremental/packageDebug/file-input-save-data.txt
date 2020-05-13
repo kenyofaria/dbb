@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Apr 11 18:54:27 BRT 2018
+1.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.set=ANDROID_RESOURCE
+2.set=DEX
+2.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/ic_launcher.png
+4.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/IdlingResourceSample/app/build/intermediates/res/resources-debug.ap_
