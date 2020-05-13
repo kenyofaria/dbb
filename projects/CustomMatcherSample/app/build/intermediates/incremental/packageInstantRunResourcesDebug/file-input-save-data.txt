@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Oct 23 14:48:05 BRST 2018
+2.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/drawable/incorrect.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/drawable/correct.xml
+0.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+0.set=ANDROID_RESOURCE

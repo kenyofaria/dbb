@@ -1,0 +1,7 @@
+#Tue Oct 23 14:48:11 BRST 2018
+base.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_3c79e2cdb83560a5e9f1ac3ee34abe084f534ed4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex
+base.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c
+file.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.4.0_3c79e2cdb83560a5e9f1ac3ee34abe084f534ed4/classes.dex

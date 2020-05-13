@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/merged/debug/drawable/incorrect.xml",
+        "source": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/src/main/res/drawable/incorrect.xml"
+    },
+    {
+        "merged": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/merged/debug/drawable/correct.xml",
+        "source": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/src/main/res/drawable/correct.xml"
+    }
+]

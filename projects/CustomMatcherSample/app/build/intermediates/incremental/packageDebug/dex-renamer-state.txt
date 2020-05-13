@@ -1,0 +1,7 @@
+#Tue Oct 23 14:48:12 BRST 2018
+base.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f6d303670039da569a9e008a8266a29a7f3717e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6eed3432e51eebcb66ef93b9809e73217bcfdbe/classes.dex
+base.1=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6eed3432e51eebcb66ef93b9809e73217bcfdbe
+file.0=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f6d303670039da569a9e008a8266a29a7f3717e/classes.dex

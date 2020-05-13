@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f6d303670039da569a9e008a8266a29a7f3717e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kenyo/out_dir/espresso-core-2.2.1-release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1293c772d74ea38397a85f20ba190823661dc4f5">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/pre-dexed/androidTest/debug/espresso-core-2.2.1-release_507520f15e88878d6706cfe50e8cccbe8031725b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e356f804f166a512c938a15e9656f3c7c662b303">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6eed3432e51eebcb66ef93b9809e73217bcfdbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex" />
+    </item>
+
+</items>

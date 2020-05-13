@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Oct 23 14:48:12 BRST 2018
+2.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/drawable/incorrect.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f6d303670039da569a9e008a8266a29a7f3717e/classes.dex
+2.set=ANDROID_RESOURCE
+4.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6eed3432e51eebcb66ef93b9809e73217bcfdbe/classes.dex
+7.set=DEX
+count=8
+0.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f6d303670039da569a9e008a8266a29a7f3717e
+1.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxxhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f6eed3432e51eebcb66ef93b9809e73217bcfdbe
+2.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/drawable/correct.xml
+6.set=DEX
+0.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+0.set=ANDROID_RESOURCE

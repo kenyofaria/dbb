@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 78,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/kenyo/Documents/espresso-examples/android-testing/ui/espresso/CustomMatcherSample/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 78,
+                        "endOffset": 721
+                    }
+                }
+            }
+        ]
+    }
+]
